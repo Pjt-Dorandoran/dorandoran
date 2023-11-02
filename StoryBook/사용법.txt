@@ -1,0 +1,4 @@
+1. pip install -r requirements.txt
+2. text 폴더에 text넣기
+3. img폴더에 이미지 정리해서 넣기
+4. main.exe 실행
