@@ -17,7 +17,6 @@ import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.JoinColumn;
 import jakarta.persistence.ManyToOne;
-import jakarta.persistence.OneToOne;
 import jakarta.persistence.Table;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
@@ -33,7 +32,7 @@ public class ProcessedVoice {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "pv_id")
     private int id;
-
+    //
     @ManyToOne(fetch = FetchType.LAZY)
     @JoinColumn(name = "content_id")
     @OnDelete(action = OnDeleteAction.CASCADE)
@@ -46,7 +45,6 @@ public class ProcessedVoice {
 
     @Column(name = "voice_url", nullable = false)
     private String voiceUrl;
-
 
     @Column(name = "voice_gender", nullable = true)
     @Enumerated(EnumType.STRING)
