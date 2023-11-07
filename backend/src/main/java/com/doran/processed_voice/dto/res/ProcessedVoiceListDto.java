@@ -11,5 +11,6 @@ import lombok.Setter;
 @AllArgsConstructor
 public class ProcessedVoiceListDto {
     int size;
+    //
     List<ProcessedVoiceResDto> processedVoiceResDtoList;
 }
