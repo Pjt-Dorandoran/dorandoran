@@ -104,21 +104,209 @@
 
 ## ✅ 기능 소개
 
+### 스플래시
+<table>    
+    <tr align="center" > 
+        <td><strong>스플래시</strong></td>
+    </tr>
+    <tr align="center"> 
+        <td> <img src= "assets/공통/스플래시.gif"> </td>
+    </tr>
+    <tr> 
+        <td>
+            1. 아이 친화적인 UI<br>
+            2. 애니메이션과 배경음을 사용하여 흥미를 유도
+        </td>
+</table>
+
 ### 회원가입, 로그인
 
-[gif]
+<table>    
+    <tr align="center" > 
+        <td><strong>아이 로그인</strong></td>
+        <td><strong>부모 로그인</strong></td>
+    </tr>
+    <tr align="center"> 
+        <td> <img src= "assets/아이/아이로그인.gif"> </td>
+        <td> <img src= "assets/부모/부모로그인.gif"> </td>
+    </tr>
+    <tr> 
+        <td>
+            1. 초대 코드를 이용한 로그인<br>
+            2. 계정에 등록되어 있는 멀티 프로필 선택 가능
+        </td>
+        <td>
+            1. 소셜 로그인을 사용한 로그인<br> 
+        </td>
+</table>
 
-### 목소리 녹음 (부모)
+### 메인 화면
 
-[gif]
+<table>    
+    <tr align="center" > 
+        <td><strong>아이 메인</strong></td>
+        <td><strong>부모 메인</strong></td>
+    </tr>
+    <tr align="center"> 
+        <td> <img src= "assets/아이/아이메인.gif"> </td>
+        <td> <img src= "assets/부모/부모메인.gif"> </td>
+    </tr>
+    <tr> 
+        <td>
+            1. 아이를 위한 직관적이고 귀여운 UI<br>
+        </td>
+        <td>
+            1. 해당 월에 할인, 소비한 금액을 확인 가능<br>
+            2. 하단 바코드를 통해 오프라인 결제 가능
+        </td>
+</table>
 
-### 동화 낭독 (아이)
+## 아이 기능
 
-[gif]
+### 동화 낭독
 
-### 편지, 앨범
+<table>    
+    <tr align="center" > 
+        <td><strong>동화 낭독</strong></td>
+        <td><strong>동화 낭독</strong></td>
+    </tr>
+    <tr align="center"> 
+        <td> <img src= "assets/아이/토끼와거북이.gif"> </td>
+        <td> <img src= "assets/아이/금도끼은도끼.gif"> </td>
+    </tr>
+    <tr> 
+        <td>
+            1. 스크립와 부모님 목소리를 사용하여 동화 낭독 <br>
+            2. 스크립트에 맞는 그림을 사용하여 가독성 향상 <br>
+            3. 사이드의 화살표를 이용하여 이전, 다음 이동
+        </td>
+        <td>
+            1. 스크립와 부모님 목소리를 사용하여 동화 낭독 <br>
+            2. 스크립트에 맞는 그림을 사용하여 가독성 향상 <br>
+            3. 사이드의 화살표를 이용하여 이전, 다음 이동
+        </td>
+</table>
 
-[gif]
+### 도서관 기능
+<table>    
+    <tr align="center" > 
+        <td><strong>동화 리스트</strong></td>
+        <td><strong>좋아요</strong></td>
+    </tr>
+    <tr align="center"> 
+        <td> <img src= "assets/아이/동화리스트.gif"> </td>
+        <td> <img src= "assets/아이/재밌나요.gif"> </td>
+    </tr>
+    <tr> 
+        <td>
+            1. 동화책 리스트 확인<br>
+            2. 녹음되지 않은 동화는 자물쇠를 이용한 잠금 <br>
+            3. 엄마, 아빠를 선택하여 동화 낭독 목소리 선택
+        </td>
+        <td>
+            1. 동화가 끝난 이 후 후기 등록 <br>
+            2. 아이가 좋아하는 동화는 부모 계정에서 확인 가능
+        </td>
+</table>
+
+### 아이 친화 기능
+<table>    
+    <tr align="center" > 
+        <td><strong>동물 고르기</strong></td>
+        <td><strong>튜토리얼</strong></td>
+    </tr>
+    <tr align="center"> 
+        <td> <img src= "assets/아이/동물고르기.gif"> </td>
+        <td> <img src= "assets/아이/튜토리얼.gif"> </td>
+    </tr>
+    <tr> 
+        <td>
+            1. 캐릭터 선택 시 메인 화면의 안내 동물 변경 <br>
+            2. 동물마다 선택 시 안내 음성을 통한 재미 요소 추가 <br>
+            3. 귀여운 캐릭터를 이용한 친밀감 형성
+        </td>
+        <td>
+            1. 하단의 동물 클릭 시 튜토리얼 기능 활성화<br>
+            2. 각 기능 클릭 시 동물의 음성으로 튜토리얼 안내 진행<br>
+            3. 동물 재 클릭 시 튜토리얼 기능 off
+        </td>
+</table>
+
+## 부모 기능
+
+### 음성 녹음 주의사항 및 중간저장
+<table>    
+    <tr align="center" > 
+        <td><strong>주의사항</strong></td>
+        <td><strong>중간저장</strong></td>
+    </tr>
+    <tr align="center"> 
+        <td> <img src= "assets/부모/주의사항.gif"> </td>
+        <td> <img src= "assets/부모/중간저장.gif"> </td>
+    </tr>
+    <tr> 
+        <td>
+            1. 사용자의 성별 선택<br>
+            2. 좋은 결과물을 뽑아내기 위한 주의 사항 안내
+        </td>
+        <td>
+            1. 녹음 된 기록이 있는 경우 이어하기 가능<br>
+            2. 처음부터 진행 가능<br>
+            3. 녹음 된 기록이 없는 경우 처음부터 진행
+        </td>
+</table>
+
+### 음성 녹음
+<table>    
+    <tr align="center" > 
+        <td><strong>녹음 및 다시 듣기</strong></td>
+        <td><strong>녹음 완료</strong></td>
+    </tr>
+    <tr align="center"> 
+        <td> <img src= "assets/부모/녹음및다시듣기.gif"> </td>
+        <td> <img src= "assets/부모/녹음완.gif"> </td>
+    </tr>
+    <tr> 
+        <td>
+            1. 녹음하기 버튼을 눌러 음성 녹음 가능<br>
+            2. 다시듣기 버튼을 눌러 녹음본 다시 듣기 가능<br>
+            3. 녹음 진행 시 다음 스크립트 버튼 활성화
+        </td>
+        <td>
+            1. SMS를 통해 AI 학습 대기열 안내<br>
+            2. 예상 대기 시간 안내<br>
+            3. AI 학습 완료 시 안내 문자 전송
+        </td>
+</table>
+
+### 공통 기능 (편지, 사진첩)
+<table>    
+    <tr align="center" > 
+        <td><strong>그림 편지 쓰기</strong></td>
+        <td><strong>그림 편지 받기</strong></td>
+        <td><strong>사진첩</strong></td>
+    </tr>
+    <tr align="center">
+        <td> <img src= "assets/공통/편지보내기.gif"> </td>
+        <td> <img src= "assets/공통/편지확인.gif"> </td>
+        <td> <img src= "assets/공통/사진첩.gif"> </td>
+    </tr>
+    <tr> 
+        <td>
+            1. 색연필을 사용하여 그림편지 작성 <br>
+            2. 보내기 버튼을 통해 부모님, 아이에게 편지 전송
+        </td>
+        <td>
+            1. 로그인 진행 시 편지 수신<br>
+            2. 클릭하여 편지 확인
+        </td>
+        <td>
+            1. 부모와 아이는 같은 앨범을 공유<br>
+            2. 우측에서 디테일한 확인 가능 <br>
+            3. 그림 편지 수신 시 사진첩에 자동 등록
+        </td>
+</table>
+
 
 ## ✅ 활용기술, 기술 설명
 
@@ -196,4 +384,5 @@
 
 
 ## ✅ 최종발표 ppt
+[발표 자료 링크](assets/발표자료/도란도란%20발표자료.pdf)
 
